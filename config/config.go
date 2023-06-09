@@ -2,10 +2,7 @@ package config
 
 import (
 	"github.com/AbsaOSS/env-binder/env"
-	"github.com/tidwall/gjson"
 )
-
-var configuration gjson.Result
 
 type Config struct {
 	LogPath     string `env:"LOG_PATH"`
