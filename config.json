@@ -1,0 +1,31 @@
+{
+  "log_path": "logs",
+  "port": ":8080",
+  "backupDir": "./backups",
+  "mongoUrl": "mongodb://admin:admin@localhost:27017",
+  "dbName": "niv",
+  "statPort": "8989",
+  "backup": {
+    "log_path": "logs",
+    "port": ":8080",
+    "backupDir": "./backups",
+    "db": {
+      "username": "atechnoAdmin",
+      "password": "atechnoAdmin#22"
+    }
+  },
+  "node": {
+    "log_path": "logs",
+    "secretToken": "secretsecretsecret",
+    "port": ":8081",
+    "mongoUrl": "mongodb://localhost:27017",
+    "dbName": "newdb"
+  },
+  "write": {
+    "log_path": "logs",
+    "secretToken": "secretsecretsecret",
+    "port": ":8000",
+    "mongoUrl": "mongodb://admin:admin@localhost:27017",
+    "dbName": "newdb"
+  }
+}

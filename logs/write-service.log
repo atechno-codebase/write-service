@@ -1,0 +1,45 @@
+{"level":"info","msg":"started server on port: :8082\n","time":"2023-06-01T20:00:32+05:30"}
+{"level":"error","msg":"unexpected end of JSON input","time":"2023-06-01T20:02:07+05:30"}
+{"level":"info","msg":"started server on port: :8082\n","time":"2023-06-01T20:02:34+05:30"}
+{"level":"error","msg":"unexpected end of JSON input","time":"2023-06-01T20:04:26+05:30"}
+{"level":"info","msg":"started server on port: :8082\n","time":"2023-06-01T20:32:30+05:30"}
+{"level":"error","msg":"unexpected end of JSON input","time":"2023-06-01T20:32:32+05:30"}
+{"level":"info","msg":"server selection error: context canceled, current topology: { Type: Unknown, Servers: [{ Addr: localhost:27017, Type: Unknown, Last error: dial tcp [::1]:27017: connect: connection refused }, ] }","span_id":"0000000000000000","time":"2023-06-01T20:32:48+05:30","trace_id":"00000000000000000000000000000000","uid":""}
+{"level":"error","msg":"server selection error: context canceled, current topology: { Type: Unknown, Servers: [{ Addr: localhost:27017, Type: Unknown, Last error: dial tcp [::1]:27017: connect: connection refused }, ] }","span_id":"0000000000000000","time":"2023-06-01T20:32:48+05:30","trace_id":"00000000000000000000000000000000","uid":""}
+{"level":"error","msg":"server selection error: context canceled, current topology: { Type: Unknown, Servers: [{ Addr: localhost:27017, Type: Unknown, Last error: dial tcp [::1]:27017: connect: connection refused }, ] }","time":"2023-06-01T20:32:48+05:30"}
+{"level":"info","msg":"server selection error: context canceled, current topology: { Type: Unknown, Servers: [{ Addr: localhost:27017, Type: Unknown, Last error: dial tcp [::1]:27017: connect: connection refused }, ] }","span_id":"0000000000000000","time":"2023-06-01T20:39:43+05:30","trace_id":"00000000000000000000000000000000","uid":""}
+{"level":"error","msg":"server selection error: context canceled, current topology: { Type: Unknown, Servers: [{ Addr: localhost:27017, Type: Unknown, Last error: dial tcp [::1]:27017: connect: connection refused }, ] }","span_id":"0000000000000000","time":"2023-06-01T20:39:43+05:30","trace_id":"00000000000000000000000000000000","uid":""}
+{"level":"error","msg":"server selection error: context canceled, current topology: { Type: Unknown, Servers: [{ Addr: localhost:27017, Type: Unknown, Last error: dial tcp [::1]:27017: connect: connection refused }, ] }","time":"2023-06-01T20:39:43+05:30"}
+{"level":"info","msg":"server selection error: server selection timeout, current topology: { Type: Unknown, Servers: [{ Addr: localhost:27017, Type: Unknown, Last error: dial tcp [::1]:27017: connect: connection refused }, ] }","span_id":"0000000000000000","time":"2023-06-01T20:40:23+05:30","trace_id":"00000000000000000000000000000000","uid":""}
+{"level":"error","msg":"server selection error: server selection timeout, current topology: { Type: Unknown, Servers: [{ Addr: localhost:27017, Type: Unknown, Last error: dial tcp [::1]:27017: connect: connection refused }, ] }","span_id":"0000000000000000","time":"2023-06-01T20:40:23+05:30","trace_id":"00000000000000000000000000000000","uid":""}
+{"level":"error","msg":"server selection error: server selection timeout, current topology: { Type: Unknown, Servers: [{ Addr: localhost:27017, Type: Unknown, Last error: dial tcp [::1]:27017: connect: connection refused }, ] }","time":"2023-06-01T20:40:23+05:30"}
+{"level":"info","msg":"started server on port: :8082\n","time":"2023-06-01T20:41:43+05:30"}
+{"level":"info","msg":"started server on port: :8082\n","time":"2023-06-01T21:03:35+05:30"}
+{"level":"info","msg":"(Unauthorized) command insert requires authentication","span_id":"0000000000000000","time":"2023-06-01T21:04:14+05:30","trace_id":"00000000000000000000000000000000","uid":""}
+{"level":"error","msg":"(Unauthorized) command insert requires authentication","span_id":"0000000000000000","time":"2023-06-01T21:04:14+05:30","trace_id":"00000000000000000000000000000000","uid":""}
+{"level":"error","msg":"(Unauthorized) command insert requires authentication","span_id":"0000000000000000","time":"2023-06-01T21:04:14+05:30","trace_id":"00000000000000000000000000000000"}
+{"level":"info","msg":"started server on port: :8082\n","time":"2023-06-01T21:05:46+05:30"}
+{"level":"info","msg":"(Unauthorized) command insert requires authentication","span_id":"0000000000000000","time":"2023-06-01T21:05:48+05:30","trace_id":"00000000000000000000000000000000","uid":""}
+{"level":"error","msg":"(Unauthorized) command insert requires authentication","span_id":"0000000000000000","time":"2023-06-01T21:05:48+05:30","trace_id":"00000000000000000000000000000000","uid":""}
+{"level":"error","msg":"(Unauthorized) command insert requires authentication","span_id":"0000000000000000","time":"2023-06-01T21:05:48+05:30","trace_id":"00000000000000000000000000000000"}
+{"level":"info","msg":"started server on port: :8082\n","time":"2023-06-01T21:06:47+05:30"}
+{"level":"info","msg":"started server on port: :8082\n","time":"2023-06-01T21:07:36+05:30"}
+{"level":"info","msg":"OK","span_id":"0000000000000000","time":"2023-06-01T21:07:37+05:30","trace_id":"00000000000000000000000000000000"}
+{"level":"info","msg":"started server on port: :8082\n","time":"2023-06-01T21:08:07+05:30"}
+{"level":"info","msg":"OK","span_id":"0000000000000000","time":"2023-06-01T21:08:07+05:30","trace_id":"00000000000000000000000000000000"}
+{"level":"info","msg":"started server on port: :8082\n","time":"2023-06-01T21:10:56+05:30"}
+{"level":"info","msg":"OK","span_id":"0000000000000000","time":"2023-06-01T21:10:57+05:30","trace_id":"00000000000000000000000000000000"}
+{"level":"info","msg":"started server on port: :8082\n","time":"2023-06-01T21:13:28+05:30"}
+{"level":"info","msg":"OK","span_id":"0000000000000000","time":"2023-06-01T21:13:30+05:30","trace_id":"00000000000000000000000000000000"}
+{"level":"info","msg":"started server on port: :8082\n","time":"2023-06-01T21:15:39+05:30"}
+{"level":"info","msg":"OK","time":"2023-06-01T21:15:40+05:30"}
+{"level":"info","msg":"started server on port: :8082\n","time":"2023-06-01T21:16:26+05:30"}
+{"level":"info","msg":"OK","time":"2023-06-01T21:16:28+05:30"}
+{"level":"info","msg":"started server on port: :8082\n","time":"2023-06-01T21:31:52+05:30"}
+{"level":"info","msg":"OK","time":"2023-06-01T21:31:56+05:30"}
+{"level":"info","msg":"started server on port: :8082\n","time":"2023-06-01T21:32:35+05:30"}
+{"level":"info","msg":"OK","span_id":"0767a20e73c7d904","time":"2023-06-01T21:32:37+05:30","trace_id":"769b861710e0c62d8813bfefd7653dd8"}
+{"level":"info","msg":"started server on port: :8082\n","time":"2023-06-01T22:20:00+05:30"}
+{"level":"info","msg":"OK","span_id":"c94f3855eee5de91","time":"2023-06-01T22:20:01+05:30","trace_id":"8cc58fe0659220eab17848ed11528afd"}
+{"level":"info","msg":"started server on port: :8082\n","time":"2023-06-01T22:34:41+05:30"}
+{"level":"info","msg":"started server on port: :8000\n","time":"2023-06-01T22:38:40+05:30"}
