@@ -6,16 +6,16 @@ COPY . .
 
 RUN go mod tidy
 
-RUN go build -o service
+RUN go build -o app
 
 FROM alpine:latest
 
 WORKDIR /app
 
-COPY --from=build /build/service /app/service
+COPY --from=build /build/app /app/app
 
 EXPOSE 8000
 
 USER nonroot:nonroot
 
-ENTRYPOINT ["/service"]
+ENTRYPOINT ["/app"]
